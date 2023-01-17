@@ -38,6 +38,7 @@ if __name__ == "__main__":
         }}
     ])
 
+
     print("IPs:")
     for top_ip in top_ips:
         ip = top_ip.get("ip")
